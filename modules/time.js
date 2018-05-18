@@ -9,5 +9,4 @@ function time(num) {
     return h + m + s;
 }
 
-console.log(time(3700))
 exports.print = time;
