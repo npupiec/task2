@@ -29,7 +29,5 @@ function switched(input) {
             break;
         default:
             process.stderr.write('Wrong instruction!\n');
-        default:
-            process.stderr.write('Wrong instruction!\n');
     };
 }
